@@ -1,0 +1,2 @@
+{"name":"퀴즈 영웅전설 - 역사를 되찾아라","short_name":"퀴즈 영웅전설","description":"초등 5학년 사회 역사 퀴즈 RPG","start_url":"./index.html","scope":"./","display":"fullscreen","orientation":"any","background_color":"#1a1440","theme_color":"#1a1440","lang":"ko","categories":["education","games"],
+"icons":[{"src":"icon-192.png","sizes":"192x192","type":"image/png"},{"src":"icon-512.png","sizes":"512x512","type":"image/png"},{"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"maskable"}]}
